@@ -52,7 +52,7 @@ export default function WeatherDetail({unitsSystem, setUnitsSystem, currentWeath
 
             <View style={ styles.weatherDescriptionBox}>
                 <View style={ styles.weatherDescriptionBoxIcon}>
-                    <FontAwesome5 name= 'temperature-low'  size={ iconConfig.size }  color={ iconConfig.color }/>
+                    <MaterialCommunityIcons name= 'weather-windy'  size={ iconConfig.size }  color={ iconConfig.color }/>
                 </View>
                 <View style={ styles.weatherDescriptionBoxItemPrimary}>
                     <Text>
@@ -66,7 +66,7 @@ export default function WeatherDetail({unitsSystem, setUnitsSystem, currentWeath
 
             <View style={ styles.weatherDescriptionBox}>
                 <View style={ styles.weatherDescriptionBoxIcon}>
-                    <FontAwesome5 name= 'temperature-low'  size={ iconConfig.size }  color={ iconConfig.color }/>
+                    <MaterialCommunityIcons name= 'speedometer'  size={ iconConfig.size }  color={ iconConfig.color }/>
                 </View>
                 <View style={ styles.weatherDescriptionBoxItemPrimary}>
                     <Text>
