@@ -1,2 +1,4 @@
 
-<img src="src/assets/user_friendly_tables.png" />
+<img src="assets/adaptive_screen.png" />
+
+<img src="assets/response_to_time.png" />
